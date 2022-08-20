@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPRG214_Marina.App", "CPRG214_Marina.App\CPRG214_Marina.App.csproj", "{60E9B9FC-17D4-402B-9C8A-42FD03D84934}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPRG214_Marina.Data", "CPRG214_Marina.Data\CPRG214_Marina.Data.csproj", "{08E8E66D-99F4-496A-BF35-D4191447A900}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60E9B9FC-17D4-402B-9C8A-42FD03D84934}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60E9B9FC-17D4-402B-9C8A-42FD03D84934}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60E9B9FC-17D4-402B-9C8A-42FD03D84934}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60E9B9FC-17D4-402B-9C8A-42FD03D84934}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08E8E66D-99F4-496A-BF35-D4191447A900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08E8E66D-99F4-496A-BF35-D4191447A900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08E8E66D-99F4-496A-BF35-D4191447A900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08E8E66D-99F4-496A-BF35-D4191447A900}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {026B4082-E87C-4CD7-B1F8-F0359941ABF3}
+	EndGlobalSection
+EndGlobal
